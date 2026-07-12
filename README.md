@@ -1,5 +1,5 @@
 # katifetch-show-ascii-demo
-## you can see here if the ascii of the os's work on katifetch and the same os (all of the screenshot maybe is made on live installer or installed on real hardware)
+## you can see here if the ascii of the os's work on katifetch and the same os (all of the screenshot maybe is made on live installer or installed on real hardware or VM)
 
 # Adéile linux
 <img width="1920" height="1080" alt="Adélielinux" src="https://github.com/user-attachments/assets/488a7080-3f58-4a88-923a-955213c0776a" />
