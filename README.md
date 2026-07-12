@@ -4,6 +4,11 @@
 # Adéile linux
 <img width="1920" height="1080" alt="Adélielinux" src="https://github.com/user-attachments/assets/488a7080-3f58-4a88-923a-955213c0776a" />
 
+# Linux Lite
+
+### Linux Lite 8.0 
+<img width="1920" height="1080" alt="LinuxLite8 0" src="https://github.com/user-attachments/assets/ed5574bf-b580-411d-aa06-0d1f0c7bd8ac" />
+
 # Mageia
 
 ### Mageia 9
@@ -17,3 +22,4 @@
 ### Ubuntu 26.04
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/51fbe89f-c3e3-4c45-b8ba-8b1a5d09ebc5" />
+
