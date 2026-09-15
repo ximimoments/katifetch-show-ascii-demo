@@ -17,6 +17,13 @@
 ### Mageia 10
 <img width="1920" height="1080" alt="Mageia10" src="https://github.com/user-attachments/assets/a908f569-88ce-4cc9-80f7-1b9abce6b79b" />
 
+# Openindiana
+
+
+## Openindiana Hipster
+
+<img width="1462" height="979" alt="image" src="https://github.com/user-attachments/assets/027baf84-876d-4edc-bd9f-8088fd3c0d89" />
+
 # Ubuntu
 
 ### Ubuntu 26.04
